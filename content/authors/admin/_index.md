@@ -3,7 +3,7 @@
 title: Cloud Solution Architect | Tech Mentor | Speaker
 
 # Name pronunciation (optional)
-name_pronunciation: Manfred Bjørlin
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Manfred
