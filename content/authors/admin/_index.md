@@ -33,7 +33,7 @@ profiles:
   - icon: brands/discord
     url: https://discordapp.com/users/621405856910671882
     label: Contact me on Discord
-  - icon: brands/instagram
+  #- icon: brands/instagram
 #    url: https://www.instagram.com/
 #  - icon: brands/linkedin
 #    url: https://www.linkedin.com/
