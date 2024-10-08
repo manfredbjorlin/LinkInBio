@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: light
+  mode: system
   color: blue
 
 # SEO
@@ -15,7 +15,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo link in bio theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me'
+    notice: '© {year} Manfred Bjørlin'
 
 # Localization
 locale:

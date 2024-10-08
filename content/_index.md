@@ -31,7 +31,4 @@ sections:
         - text: GitHub
           icon: brands/github
           url: https://github.com/manfredbjorlin
-    design:
-      buttons:
-        style: 'margin-top: -100px'
 ---
