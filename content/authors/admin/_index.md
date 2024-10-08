@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cloud Solution Architect | Tech Mentor | Speaker
+title: Manfred Bjørlin
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -21,7 +21,7 @@ role: He/him
 
 # Organizations/Affiliations to show in About widget
 organizations:
-#  - name: Stanford University
+  - name: Cloud Solution Architect | Tech Mentor | Speaker
 #    url: https://www.stanford.edu/
 
 # Social Networking
