@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Cloud Solution Architect | Tech Mentor | Speaker
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Manfred Bjørlin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Manfred
+last_name: Bjørlin
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: He/him
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+#  - name: Stanford University
+#    url: https://www.stanford.edu/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
