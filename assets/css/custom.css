@@ -23,3 +23,7 @@ section#section1
 {
     visibility:hidden;
 }
+.sz-caption
+{
+    margin-top: -30px;
+}
