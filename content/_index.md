@@ -35,6 +35,5 @@ sections:
     id: section1
     content:
       title: Test
-      subtitle: more test
-      text: Hello world
+      text: {{< sessionize >}}
 ---
