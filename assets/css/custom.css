@@ -14,3 +14,7 @@ section#section1
 {
     margin-top: -180px;
 }
+.sz-caption
+{
+    visibility:hidden;
+}
