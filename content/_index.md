@@ -31,7 +31,7 @@ sections:
         - text: GitHub
           icon: brands/github
           url: https://github.com/manfredbjorlin
-  - block: cta-card
+  - block: markdown
     id: section1
     content:
       text: |-
