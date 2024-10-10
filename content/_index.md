@@ -35,5 +35,6 @@ sections:
     id: section1
     content:
       title: Test
-      text: {{< sessionize >}}
+      text: |-
+       {{< sessionize >}}
 ---
