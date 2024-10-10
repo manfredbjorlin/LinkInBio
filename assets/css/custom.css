@@ -17,6 +17,7 @@ section#section1
 .sz-caption
 {
     visibility:hidden;
+    height: 0px;
 }
 .sz-powered-by
 {
