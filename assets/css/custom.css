@@ -12,7 +12,7 @@ section#section-resume-biography
 }
 section#section1
 {
-    margin-top: -220px;
+    margin-top: -200px;
 }
 .sz-caption
 {
@@ -25,5 +25,9 @@ section#section1
 }
 .sz-caption
 {
-    margin-top: -30px;
+    margin-top: -20px;
+}
+.sz-item
+{
+    font-size: 0.8em;
 }
