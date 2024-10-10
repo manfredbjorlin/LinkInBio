@@ -25,10 +25,12 @@ sections:
         - text: LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/manfredbjorlin/
-        - text: Sessionized
+        - text: Sessionize
           icon: hero/megaphone
           url: https://sessionize.com/manfredbjorlin
         - text: GitHub
           icon: brands/github
           url: https://github.com/manfredbjorlin
 ---
+
+{{< sessionize >}}
