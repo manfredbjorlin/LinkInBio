@@ -31,4 +31,10 @@ sections:
         - text: GitHub
           icon: brands/github
           url: https://github.com/manfredbjorlin
+  - block: markdown
+    id: section1
+    content:
+      title: Test
+      subtitle: more test
+      text: Hello world
 ---

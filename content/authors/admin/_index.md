@@ -50,5 +50,3 @@ profiles:
 Azure Cloud architect and C# developer with a passion for integration and automation. But wait, it's more! Passion does not only have to be in tech! There is also a burning passion for neurodiversity and diversity in tech, across ages, genders, identities, etc...
 
 Loves integration, automation and data security. A back-end developer for over 20 years. Have worked with building integration platforms in Azure for several bigger organizations. Worked with .Net since early 2000, and Azure since launch. Have a big engagement for diversity at the workplace, everything from neurodiversity and gender identity to cultural background and visible and invisible disabilities.
-
-{{< sessionize >}}
