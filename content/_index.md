@@ -32,5 +32,3 @@ sections:
           icon: brands/github
           url: https://github.com/manfredbjorlin
 ---
-
-Can I add something here??
