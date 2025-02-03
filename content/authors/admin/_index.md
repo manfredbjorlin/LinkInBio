@@ -47,4 +47,4 @@ profiles:
 #    label: Download my resume
 ---
 
-Azure Cloud architect and C# developer with a passion for integration and automation, with more than 20 years experience as a back-end and cloud developer & architect. Have a big engagement for diversity at the workplace, everything from neurodiversity and gender identity to cultural background and visible and invisible disabilities.
+Cloud Native architect and developer with a passion for integration and automation, with more than 20 years experience as a back-end and cloud developer & architect. Have a big engagement for diversity at the workplace, everything from neurodiversity and gender identity to cultural background and visible and invisible disabilities.
