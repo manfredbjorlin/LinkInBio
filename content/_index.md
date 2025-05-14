@@ -25,9 +25,8 @@ sections:
           icon: brands/linkedin
           url: https://www.linkedin.com/in/manfredbjorlin/
         - text: Bluesky
-          icon: brands/bluesky
           url: https://bsky.app/profile/manfredbjorlin.bsky.social
-        - text: Mastoton
+        - text: Mastodon
           icon: brands/mastodon
           url: https://oslo.town/@manfredbjorlin
         - text: Sessionize
